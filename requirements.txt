@@ -1,0 +1,8 @@
+ffmpeg-python
+moviepy
+whisper           # openai/whisper package
+torch             # CPU build; if pip chooses GPU build, that's OK too
+numpy
+tqdm
+python-dotenv
+streamlit

@@ -1,0 +1,1 @@
+Python is one of the most popular programming languages in the world. it works on almost any device from your Windows PC to a Raspberry Pi. it uses lines and spaces to organize code, unlike the curly brackets and semicolons you see in many other languages.
